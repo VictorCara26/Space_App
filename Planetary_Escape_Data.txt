@@ -1,0 +1,36 @@
+Mercury: Velocity: 4427 m/s 
+Distance: 242000 m
+Time: 110 s
+
+Venus: Velocity: 10415 m/s 
+Distance: 1352000 m
+Time: 260 s
+
+Earth: Velocity: 11183 m/s 
+Distance: 1556820 m
+Time: 279 s
+
+Mars: Velocity: 5509 m/s 
+Distance: 375380 m
+Time: 137 s
+
+Jupiter: Velocity: 59706 m/s 
+Distance: 44521280 m
+Time: 1492 s
+
+Saturn: Velocity: 35599 m/s 
+Distance: 15806420 m
+Time: 889 s
+
+Uranus: Velocity: 21406 m/s 
+Distance: 5724500 m
+Time: 535 s
+
+Neptune: Velocity: 23712 m/s 
+Distance: 7009280 m
+Time: 592 s
+
+Pluto: Velocity: 1143 m/s 
+Distance: 15680 m
+Time: 28 s
+

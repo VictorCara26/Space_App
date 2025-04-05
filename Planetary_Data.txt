@@ -1,0 +1,9 @@
+Mercury: diameter = 4900 km, mass = 0.06 Earths
+Venus: diameter = 12100 km, mass = 0.82 Earths
+Earth: diameter = 12800 km, mass = 6 * 10^24 kg
+Mars: diameter = 5800 km, mass = 0.11 Earths
+Jupiter: diameter = 142800 km, mass = 318 Earths
+Saturn: diameter = 120000 km, mass = 95 Earths
+Uranus: diameter = 52400 km, mass = 15 Earths
+Neptune: diameter = 48400 km, mass = 17 Earths
+Pluto: diameter = 2450 km, mass = 0.002 Earths

@@ -1,0 +1,9 @@
+Mercury: period = 88 days, orbital radius = 0.39 AU
+Venus: period = 225 days, orbital radius = 0.72 AU
+Earth: period = 365 days, orbital radius = 1 AU
+Mars: period = 687 days, orbital radius = 1.52 AU
+Jupiter: period = 4329 days, orbital radius = 5.2 AU
+Saturn: period = 10753 days, orbital radius = 9.54 AU
+Uranus: period = 30660 days, orbital radius = 19.18 AU
+Neptune: period = 60148 days, orbital radius = 30.06 AU
+Pluto: period = 90560 days, orbital radius = 39.6 AU

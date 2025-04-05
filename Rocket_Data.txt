@@ -1,0 +1,2 @@
+Number of rocket engines: 4
+Acceleration per engine: 10 m/s^2
